@@ -305,4 +305,4 @@ class Game():
             self._make_move(self.curr_player, self.picked_pawn)
         else:
             self.index = -1
-            self.picked_pawn = 
+            self.picked_pawn = None
