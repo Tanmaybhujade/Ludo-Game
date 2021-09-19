@@ -3,4 +3,4 @@
 from ludo.cli import CLIGame
 
 
-CLIGame().start()
+CLIGame().start().
